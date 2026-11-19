@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Kefa III';
+  src: url('https://cdn.jsdelivr.net/gh/ayodimejifeoluwa-cloud/fonts/KefaIII.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  src: url('https://cdn.jsdelivr.net/gh/ayodimejifeoluwa-cloud/fonts/SpaceGrotesk-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PPAgrandir-NarrowHeavy';
+  src: url('https://cdn.jsdelivr.net/gh/ayodimejifeoluwa-cloud/fonts/PPAgrandir-NarrowHeavy.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
